@@ -13,6 +13,6 @@ third-party providers such as Google Play Services, which offer advertising and 
 Predicta AI is intended solely for statistical and entertainment purposes; it does not offer 
 or facilitate real-money betting services.
 
-For questions: predictaai-support@proton.me
+For questions: aipredictor_info@proton.me
 
 
