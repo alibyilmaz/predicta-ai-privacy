@@ -1,16 +1,18 @@
 # predicta-ai-privacy
 
-Predicta AI – Gizlilik Politikası
+Predicta AI – Privacy Policy
 
-Predicta AI, kullanıcıların kişisel verilerini toplamaz, satmaz veya üçüncü taraflarla paylaşmaz. 
-Uygulama yalnızca kullanıcı tarafından sağlanan verileri (favori takımlar, uygulama ayarları vb.) 
-cihaz üzerinde işler ve bu veriler uygulama dışına çıkarılmaz.
+Predicta AI does not collect, sell, or share users’ personal data with third parties. 
+The app processes only the data provided by the user (favorite teams, app settings, etc.) 
+on the device, and this data is not transferred outside the app.
 
-Uygulama, cihaz bilgilerini yalnızca uygulamanın çalışmasını sağlamak amacıyla toplar 
-(ör. cihaz modeli, işletim sistemi sürümü). Bu veriler, reklam ve analiz hizmetleri sunan 
-Google Play Services ve benzeri üçüncü taraf sağlayıcılar tarafından işlenebilir.
+The app collects device information solely to ensure the app functions properly 
+(e.g., device model, operating system version). This data may be processed by 
+third-party providers such as Google Play Services, which offer advertising and analytics services.
 
-Predicta AI yalnızca istatistik ve eğlence amaçlıdır; gerçek para ile bahis hizmeti sunmaz 
-veya yönlendirme yapmaz.
+Predicta AI is intended solely for statistical and entertainment purposes; it does not offer 
+or facilitate real-money betting services.
 
-Sorularınız için: predictaai-support@proton.me
+For questions: predictaai-support@proton.me
+
+
